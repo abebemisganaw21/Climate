@@ -1,1 +1,1 @@
-Rainfall data for 10 locations in Northern Ethiopia, comprising historical observations and future climate projections from three GCMs (IPSL, CanESM5, and MIROC6) under two scenarios (SSP2-4.5 and SSP5-8.5) for two time periods (2031–2060 and 2061–2090).
+Climate data (Rainfall, Tmax and Tmin) for 10 locations in Northern Ethiopia, comprising historical observations and future climate projections from three GCMs (IPSL, CanESM5, and MIROC6) under two scenarios (SSP2-4.5 and SSP5-8.5) for two time periods (2031–2060 and 2061–2090).
